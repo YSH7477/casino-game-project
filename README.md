@@ -1,2 +1,2 @@
-sex
-sex
+# casino-game-project
+#include<stdio.h>
